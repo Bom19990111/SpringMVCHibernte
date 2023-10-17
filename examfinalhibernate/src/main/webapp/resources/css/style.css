@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+.container-form {
+	display: flex;
+	justify-content: space-between;
+}
+
+.title-card__new {
+	margin-top: 14px;
+}
+
+.card-title {
+	background-color: #90e0ef;
+	height: 64px;
+}
+
+.error-message {
+	color: red;
+	font-style: italic;
+	font-size: 14px;
+	font-weight: 600;
+}
